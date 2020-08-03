@@ -20,15 +20,11 @@ pip install tkinter
 pip install cv2
 ```
 ## Usage
-Clone the repo
+Clone the repository
 ```bash
 Run the Python file and enjoy.
 Select the option 1 or 2 according to your choice.
 
-1. 'Create face data' will capture you'"'re image and save it to the FACES folder.
+1. 'Create face data' will capture you''re image and save it to the FACES folder.
 2. 'Short Images' will ask you to select the folder of images you want to sort.
 ```
-
-
-
- 
