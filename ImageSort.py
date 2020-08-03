@@ -20,7 +20,7 @@ def create():
 		
 		while True:
 			ret,frame = cam.read()
-			cv2.imshow("Press Esc to capture and exit.",frame)
+			cv2.imshow("Press Esc to exit and C to capture.",frame)
 			
 			if not ret:
 				print("Frame not readed")
@@ -174,4 +174,4 @@ elif n == 2:
 	sort()
 	
 else:
-	print("exit")
+	print("Exit")
