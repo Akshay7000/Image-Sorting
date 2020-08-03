@@ -1,7 +1,26 @@
 # Image-Sorting
-Requirments
-  1.face_recognition
-  2.shutil
-  3.numpy
-  4.tkinter
-  5.cv2
+
+## Requirments
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
+
+```bash
+pip install face_recognition
+```
+```bash
+pip install shutil
+```
+```bash
+pip install numpy
+```
+```bash
+pip install tkinter
+```
+```bash
+pip install cv2
+```
+
+
+
+
+ 
